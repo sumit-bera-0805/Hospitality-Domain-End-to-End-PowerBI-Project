@@ -52,6 +52,4 @@ The dataset includes metrics for various Atliq properties across multiple cities
 - **Direct bookings** perform best in terms of realization %, while third-party platforms slightly underperform.  
 - Weekly trends reveal gradual improvement in **RevPAR** and **Occupancy %** through mid-year months.  
 
----
 
-## 📁 Project Structure
