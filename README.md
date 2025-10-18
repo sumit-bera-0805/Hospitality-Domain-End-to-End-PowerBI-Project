@@ -1,7 +1,7 @@
-# 🏥 Hospital Performance Analysis Dashboard (Power BI)
+# 🏥 Hospitality Performance Analysis Dashboard (Power BI)
 
 ## 📊 Project Overview
-This Power BI project analyzes **hospital performance metrics** across different cities and property categories. The dashboard provides a comprehensive view of revenue trends, occupancy rates, and key performance indicators (KPIs) to support data-driven decision-making in the healthcare hospitality sector.
+This Power BI project analyzes **hospitality performance metrics** across different cities and property categories. The dashboard provides a comprehensive view of revenue trends, occupancy rates, and key performance indicators (KPIs) to support data-driven decision-making in the healthcare hospitality sector.
 
 The dataset focuses on Atliq Hospitality properties, comparing performance across time, location, and booking platforms.
 
